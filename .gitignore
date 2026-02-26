@@ -23,3 +23,4 @@ logs
 .env.*
 !.env.example
 >>>>>>> 585b513 (This is the Revamped GrafiriaExpeditions in Nuxt Js)
+.vercel
